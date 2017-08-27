@@ -12,7 +12,7 @@ Usage:
 Add this to your HTMLhead.
 ```HTML
 <head>
-  <script src=""/>
+  <script src="https://cdn.rawgit.com/Bambi-pa-hal-is/Javascript-Debugger/62ccf294/Javascript/Debug.js"/>
 </head>
 ```
 
