@@ -21,7 +21,8 @@ Run the JavascripDebugger.exe
 Code example:
 
 ```javascript
-  d.start();
+  d.start(); //Start the debugger.
+  //d.setProduction(); //Run this function if the environment is for production. This allows you to keep your debug code while in production.
   
   var object = {};
   object.x = 42;
