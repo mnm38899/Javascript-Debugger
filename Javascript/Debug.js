@@ -113,10 +113,4 @@ function Debugger()
 
 var d = new Debugger();
 
-var kalle = "nalle";
-d.track('kalle',kalle);
-
-var balle = "ballenalle";
-d.track('balle',kalle);
-
 
