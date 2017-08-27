@@ -22,7 +22,7 @@ Code example:
 
 ```javascript
   d.start(); //Start the debugger.
-  //d.setProduction(); //Run this function if the environment is for production. This allows you to keep your debug code while in production.
+  //d.setProduction(); //Run this function if the environment is for production. This allows you to keep your debug code while in production. It replaces all functions with empty functions.
   
   var object = {};
   object.x = 42;
