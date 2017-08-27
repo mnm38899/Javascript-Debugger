@@ -18,7 +18,7 @@ Add this to your HTMLhead.
 
 Run the JavascripDebugger.exe
 
-Add this to your javascript
+Code example:
 
 ```javascript
   d.start();
