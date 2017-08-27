@@ -4,6 +4,9 @@ A debugger for clientside javascript.
 
 This tool allows you to keep track of your javascript variable values in realtime.
 
+How does it work?
+This program setups a local websocket-server on your computer. The javascript file that you add into your HTML-code sends the variables to the server.
+
 Usage:
 
 Add this to your HTMLhead.
